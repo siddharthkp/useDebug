@@ -34,6 +34,13 @@ function MyComponent() {
 }
 ```
 
+Check the console to see logs
+
+```
+__DEBUG_mycomponent__ mounted 
+__DEBUG_mycomponent__ unmounted
+```
+
 &nbsp;
 
 #### like it?
