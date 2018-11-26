@@ -1,0 +1,17 @@
+{
+  "name": "usedebug",
+  "version": "0.0.1",
+  "description": "Custom hook to debug useEffect",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkp/usedebug.git"
+  },
+  "peerDependencies": {
+    "react": ">=16.7.0-alpha.0"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT"
+}
