@@ -1,6 +1,6 @@
 {
   "name": "usedebug",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Custom hook to debug useEffect",
   "main": "index.js",
   "scripts": {},
