@@ -8,7 +8,7 @@ const useDebug = id => {
     return () => {
       console.log(`__DEBUG_${id}__ unmounted`)
     }
-  })
+  }, [])
 }
 
 export default useDebug
